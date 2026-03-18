@@ -1,3 +1,9 @@
+-- Sprint 2: Consultas SQL para análisis de transacciones y empresas
+-- Objetivo: Practicar JOINs, subconsultas y funciones agregadas
+--
+-- Sprint 2: SQL queries for transaction and company analysis
+-- Goal: Practice JOINs, subqueries, and aggregate functions
+--
 --- Exercici 2 
 --- NIVELL 1
 --- Utilitzant JOIN realitzaràs les següents consultes:

@@ -1,3 +1,9 @@
+# Sprint 3: Diseño y modificación de tablas SQL, consultas avanzadas
+# Objetivo: Crear tablas, modificar estructuras y realizar consultas complejas
+#
+# Sprint 3: SQL table design and modification, advanced queries
+# Goal: Create tables, modify structures, and perform complex queries
+#
 
 #Nivell 1
 #- Exercici 1

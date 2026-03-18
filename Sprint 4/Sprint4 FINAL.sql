@@ -1,3 +1,9 @@
+-- Sprint 4: Modelado de datos (esquema estrella), carga de datos y consultas complejas
+-- Objetivo: Diseñar un esquema estrella, cargar datos desde CSV y realizar consultas avanzadas
+--
+-- Sprint 4: Data modeling (star schema), data loading, and complex queries
+-- Goal: Design a star schema, load data from CSV, and perform advanced queries
+--
 /*Nivell 1
 Descàrrega els arxius CSV, estudia'ls i dissenya una base de dades amb un esquema d'estrella que contingui, almenys 4 taules de les quals
 puguis realitzar les següents consultes:*/
